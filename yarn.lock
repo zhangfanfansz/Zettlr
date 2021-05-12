@@ -543,11 +543,6 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.44.tgz#df7503e6002847b834371c004b372529f3f85215"
   integrity sha512-+gaugz6Oce6ZInfI/tK4Pq5wIIkJMEJUu92RB3Eu93mtj4wjjjz9EB5mLp5s1pSsLXdC/CPut/xF20ZzAQJbTA==
 
-"@types/node@^14.6.2":
-  version "14.14.44"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-14.14.44.tgz#df7503e6002847b834371c004b372529f3f85215"
-  integrity sha512-+gaugz6Oce6ZInfI/tK4Pq5wIIkJMEJUu92RB3Eu93mtj4wjjjz9EB5mLp5s1pSsLXdC/CPut/xF20ZzAQJbTA==
-
 "@types/nspell@^2.1.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@types/nspell/-/nspell-2.1.0.tgz#02df18ecef5b4e60cb8b70779d96e922196b0726"
@@ -6681,13 +6676,12 @@ node-libs-browser@^2.2.1:
     util "^0.11.0"
     vm-browserify "^1.0.1"
 
-node-loader@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/node-loader/-/node-loader-1.0.2.tgz#f8a8f117844652642df1f2abb13ca46242643800"
-  integrity sha512-myxAxpyMR7knjA4Uzwf3gjxaMtxSWj2vpm9o6AYWWxQ1S3XMBNeG2vzYcp/5eW03cBGfgSxyP+wntP8qhBJNhQ==
+node-loader@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/node-loader/-/node-loader-2.0.0.tgz#9109a6d828703fd3e0aa03c1baec12a798071562"
+  integrity sha512-I5VN34NO4/5UYJaUBtkrODPWxbobrE4hgDqPrjB25yPkonFhCmZ146vTH+Zg417E9Iwoh1l/MbRs1apc5J295Q==
   dependencies:
     loader-utils "^2.0.0"
-    schema-utils "^3.0.0"
 
 node-pre-gyp@^0.11.0:
   version "0.11.0"
